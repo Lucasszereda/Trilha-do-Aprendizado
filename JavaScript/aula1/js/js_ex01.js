@@ -1,1 +1,0 @@
-prompt("Script JS Externo")
