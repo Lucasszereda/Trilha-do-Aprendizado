@@ -1,0 +1,57 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+}
+div{
+    font-family: arial;
+}
+.logo
+{
+    position: relative;
+    left: 80px;
+    top: 3px;
+}
+.links
+{
+    position: relative;
+    left: 1334px;
+    bottom: 41px;
+}
+.contato
+{
+   padding-left: 60px;
+}
+.d1
+{
+    padding-top: 20px;
+    padding-left: 40%;
+}
+.sobre
+{
+
+    border-bottom: 1px solid black;
+    margin-right: 60px;
+    margin-left: 60px;
+} 
+.img
+{
+    position: relative;
+    left: 350px;
+    bottom: 34px; 
+}
+.webdev
+{
+    padding-left: 60px;
+}
+.fundo
+{
+    position:static;
+    background-color: darkolivegreen;
+    text-indent: -1000px;
+}
+.fundo2
+{
+    color: grey;
+    background-color: grey;
+    height: 400px;
+}
